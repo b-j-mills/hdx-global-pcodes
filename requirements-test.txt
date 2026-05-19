@@ -84,7 +84,7 @@ humanize==4.15.0
     # via
     #   -c requirements.txt
     #   frictionless
-idna==3.11
+idna==3.15
     # via
     #   -c requirements.txt
     #   email-validator
@@ -183,7 +183,7 @@ pyphonetics==0.5.3
     # via
     #   -c requirements.txt
     #   hdx-python-utilities
-pytest==9.0.2
+pytest==9.0.3
     # via
     #   hdx-scraper-pcodes (pyproject.toml)
     #   pytest-cov
@@ -214,7 +214,7 @@ referencing==0.37.0
     #   -c requirements.txt
     #   jsonschema
     #   jsonschema-specifications
-requests==2.32.5
+requests==2.33.0
     # via
     #   -c requirements.txt
     #   ckanapi
@@ -304,7 +304,7 @@ unidecode==1.4.0
     # via
     #   -c requirements.txt
     #   pyphonetics
-urllib3==2.6.3
+urllib3==2.7.0
     # via
     #   -c requirements.txt
     #   requests
